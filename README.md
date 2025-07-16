@@ -12,8 +12,9 @@ Made in just 1 day as a personal challenge — I focused on gameplay flow, visua
 - Custom environment inspired by the original game's subway setting
 
 ## 📸 Screenshots 
+<img width="1911" height="807" alt="SS_2" src="https://github.com/user-attachments/assets/1731e220-f679-47b5-98c7-5cbde2eb6f54" />
+<img width="1905" height="803" alt="SS_1" src="https://github.com/user-attachments/assets/3ee34b24-69b4-4bd3-a0c1-503d3188e5ba" />
 
-*(Insert screenshots or a GIF here. You can upload images to GitHub and link them, or embed a YouTube video if you have one.)*
 
 ## 🛠 Built With
 
@@ -30,6 +31,7 @@ Made in just 1 day as a personal challenge — I focused on gameplay flow, visua
 - "Trains Like In Subway Surfers" (https://skfb.ly/oRJMz) by shotakhakhishvili is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
 
 - "U Magnet" (https://skfb.ly/opCBn) by Maggatron is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
 
 
 
